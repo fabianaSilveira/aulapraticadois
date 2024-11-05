@@ -1,3 +1,3 @@
-Public ClasseImportante{
-
+public ClasseImportante{
+    private String descricaoImportante;
 }
